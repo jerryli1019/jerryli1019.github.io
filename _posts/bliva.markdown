@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 image: /images/404.jpg
 venue: "Under Review AAAI 2024"
@@ -20,4 +20,4 @@ significantly enhances performance in processing text-rich VQA benchmarks (up to
 17.76% in OCR-VQA benchmark) and in undertaking typical VQA benchmarks 
 (up to 7.9% in Visual Spatial Reasoning benchmark), comparing to our baseline 
 InstructBLIP. BLIVA demonstrates significant capability in decoding realworld images, 
-irrespective of text presence.
+irrespective of text presence. -->
