@@ -1,0 +1,12 @@
+---
+layout: post
+image: /images/dsc10.png
+title:  "Principles of Data Science"
+instructor: "Justin Eldridge"
+quarter: "S121"
+course: "UCSD DSC 10 "
+website: https://eldridgejm.github.io/dsc10-2021-su/index.html
+evaluation: /pdfs/dsc10_eval.pdf
+categories: teaching
+---
+The introductory course in data science familiarizes students with data exploration, statistical inference, and forecasting. Python is introduced as the go-to language for handling tabular data, generating visuals, and running simulations. By engaging in homework tasks and projects, students hone their analytical prowess using real-world datasets from diverse fields.
