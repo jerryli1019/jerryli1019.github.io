@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /pdfs/bliva.pdf
+image: /images/404.jpg
 venue: "Under Review AAAI 2024"
 title:  "BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions"
 authors: "Wenbo Hu*, Yifan Xu*, <strong>Yi Li</strong>, Weiyue Li, Zeyuan Chen, Zhuowen Tu"
