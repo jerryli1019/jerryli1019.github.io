@@ -5,9 +5,9 @@ venue: "Under Review AAAI 2024"
 title:  "BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions"
 authors: "Wenbo Hu*, Yifan Xu*, <strong>Yi Li</strong>, Weiyue Li, Zeyuan Chen, Zhuowen Tu"
 date:   2023-08-15 00:00:00 +00:00
-code: https://github.com/gordonhu608/Revisit_CLIP
-website: https://gordonhu608.github.io/Revisit_CLIP/
-arxiv: https://gordonhu608.github.io/Revisit_CLIP/
+code: https://github.com/mlpc-ucsd/BLIVA
+website: https://gordonhu608.github.io/bliva/
+arxiv: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://gordonhu608.github.io/files/BLIVA.pdf
 categories: research
 ---
 We introduces BLIVA, an augmented version of InstructBLIP with 
