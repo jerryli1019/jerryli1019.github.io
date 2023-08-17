@@ -2,7 +2,7 @@
 layout: post
 image: /images/dsc10.png
 title:  "Principles of Data Science"
-instructor: "Justin Eldridge"
+staff: "Justin Eldridge"
 quarter: "S121"
 course: "UCSD DSC 10 "
 website: https://eldridgejm.github.io/dsc10-2021-su/index.html

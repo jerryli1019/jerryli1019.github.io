@@ -1,0 +1,11 @@
+---
+layout: post
+image: /images/dsc20.png
+title:  "Programming and Basic Data Structures for Data Science"
+staff: "Marina Langlois"
+quarter: "WI22"
+course: "UCSD DSC 20 "
+website: https://dsc-courses.github.io/dsc20-2023-wi/
+categories: teaching
+---
+This course offers insight into the foundational structures of the programs, algorithms, and languages essential to data science. Building on the computational concepts from DSC 10, it further introduces students to abstraction techniques. Taught in Python, the curriculum delves into topics like recursion, advanced functions, function composition, object-oriented design, interpreters, classes, and basic data structures such as arrays, lists, and linked lists.

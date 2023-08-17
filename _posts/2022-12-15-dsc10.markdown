@@ -2,7 +2,7 @@
 layout: post
 image: /images/dsc10.png
 title:  "Principles of Data Science"
-instructor: "Suraj Rampure"
+staff: "Suraj Rampure"
 quarter: "FA21"
 course: "UCSD DSC 10 "
 website: https://dsc10.com/

@@ -1,0 +1,11 @@
+---
+layout: post
+image: /images/cse158.png
+title:  "Recommender Systems and Web Mining"
+staff: "Julian McAuley"
+quarter: "FA23"
+course: "UCSD CSE 158 "
+website: https://cseweb.ucsd.edu/classes/fa22/cse258-a/
+categories: teaching
+---
+Modern techniques for data mining and predictive analytics are the focus. The course emphasizes analyzing real-world datasets, creating functional systems, and applying contemporary machine learning research concepts in practical scenarios.
