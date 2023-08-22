@@ -1,0 +1,11 @@
+---
+layout: post
+image: /images/japan.png
+title:  "Optimization and Evaluation of Multi-layer Neural Networks: Exploring Regularization, Learning Rates, and Topologies"
+authors: "<strong>Yi Li<strong>, Weiyue Li, Linghang Kong"
+date:   2022-02-15 00:00:00 +00:00
+code: https://github.com/jerryli1019/MLP
+pdf: https://github.com/jerryli1019/MLP/blob/main/report.pdf
+categories: others
+---
+In this work, we implement a multi-layer neural network equipped with forward and backward propagation, various regularization techniques, and momentum-based optimization. Our objective was to classify Japanese Hiragana handwritten characters from the KMNIST dataset, employing softmax as the output layer. One-fold cross-validation was utilized to evaluate the model, coupled with the integration of regularization techniques. Our most efficient model leveraged ReLU activations and achieved an accuracy of 0.8688. Subsequent architecture adjustments, including layer count and hidden unit modifications, yielded a test set accuracy of 0.8626.
