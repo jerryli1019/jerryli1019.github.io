@@ -2,7 +2,7 @@
 layout: post
 image: /images/encoder-decoder.png
 title:  "Automatic Image Annotation"
-authors: "<strong>Yi Li<strong>, Weiyue Li, Linghang Kong, Yibo Wei, Shuangmu Wu"
+authors: "<strong>Yi Li</strong>, Weiyue Li, Linghang Kong, Yibo Wei, Shuangmu Wu"
 date:   2022-03-15 00:00:00 +00:00
 code: https://github.com/jerryli1019/Automatic-Image-Annotation
 pdf: https://github.com/jerryli1019/Automatic-Image-Annotation/blob/main/report.pdf
