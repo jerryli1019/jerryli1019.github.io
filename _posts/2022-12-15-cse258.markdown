@@ -1,0 +1,12 @@
+---
+layout: post
+image: /images/food.png
+title:  "Recipe Recommender System"
+authors: "<strong>Yi Li</strong>, Weiyue Li, Xiaoyue Wang, Ruoyu Hou"
+info: "Recommender System, UCSD"
+date:   2022-12-15 00:00:00 +00:00
+code: https://github.com/jerryli1019/Recipe-Recommender
+paper: https://github.com/jerryli1019/Recipe-Recommender/blob/main/report.pdf
+categories: others
+---
+Personalization is becoming increasingly crucial for user experiences across various websites. In this paper, we first conduct exploratory data analysis on datasets sourced from food.com. Subsequently, we implemented several recommendation system models to recommend recipes to users, predict ratings using sentiment analysis, and forecast recipe categories. We established both a baseline and an enhanced model for each prediction task to facilitate comparisons. After optimizing the hyperparameters of our enhanced models, we attained a testing accuracy of 73.87% for the recipe recommendation model, a testing MSE of 0.96 for rating predictions, and a testing accuracy of 94.43% for category predictions. Furthermore, we propose future research directions to investigate and ascertain the reasons for the observed disparities between the baseline and enhanced models."
