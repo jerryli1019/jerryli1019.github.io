@@ -3,6 +3,7 @@ layout: post
 image: /images/japan.png
 title:  "Optimization and Evaluation of Multi-layer Neural Networks: Exploring Regularization, Learning Rates, and Topologies"
 authors: "<strong>Yi Li</strong>, Weiyue Li, Linghang Kong"
+info: "Deep Learning, UCSD"
 date:   2022-02-15 00:00:00 +00:00
 code: https://github.com/jerryli1019/MLP
 paper: https://github.com/jerryli1019/MLP/blob/main/report.pdf
