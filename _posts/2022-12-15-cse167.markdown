@@ -6,7 +6,7 @@ authors: "<strong>Yi Li</strong>, Xiaoyue Wang"
 info: "Computer Graphic, UCSD"
 date:   2022-12-15 00:00:00 +00:00
 code: https://github.com/jerryli1019/shadow_mapping
-video: /video/demo_graphic.png
+video: /video/demo_graphic.mp4
 categories: others
 ---
 In the evolution of Computer Graphic technology, accurately rendering 3D scenes is a central challenge. Shadows are critical in imparting realism to these scenes; their absence can render visual outputs incomplete or unnatural. This project delves into the "Shadow Mapping" algorithm, originally introduced by Lance Williams. By harnessing the extensive built-in capabilities of the OpenGL library, we employed this algorithm, emphasizing distant light as the primary light source. The methodology follows a two-step process: building the shadow map and its subsequent application. Our approach primarily centered around depth, leading to the creation of a "DepthShader" for storing shadow mapping information. Preliminary results showcased significant success in shadow representation, notably with shadows of certain objects. However, shadows from some structures, such as table legs, showed slight misalignments. Though time constraints posed limitations, future refinements could explore strategies like the Stratified Poisson Sampling of shadow map and the perspective shadow map algorithm. This investigation accentuates the importance of shadows in computer graphics, emphasizing the fine balance between algorithmic precision and visual realism.
