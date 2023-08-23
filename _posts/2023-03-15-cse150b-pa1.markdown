@@ -1,0 +1,11 @@
+---
+layout: post
+image: /images/game1.png
+title:  "Terrain-Aware Pathfinding in Grid Worlds: A Comparative Study of Search Algorithms and Thematic Test Cases"
+authors: "<strong>Yi Li</strong>"
+info: "Algorithm, UCSD"
+date:   2023-03-15 00:00:00 +00:00
+code: https://github.com/jerryli1019/Terrain-Aware-Pathfinding-in-Grid-Worlds
+categories: others
+---
+In this study, we present a comprehensive approach to pathfinding in a grid world environment. Given a grid with specific terrains such as grass and puddles, our objective is to determine optimal paths from a starting point to a goal. We approach the problem by implementing and evaluating four distinct search algorithms: Depth First Search (DFS), Breadth First Search (BFS), Uniform Cost Search (UCS), and A* Search with Manhattan Distance as the heuristic. The program leverages the PyGame library for visualization and is set up in a Python virtual environment.
