@@ -238,7 +238,7 @@
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr>
           <td style="padding:2.5%;width:100%;vertical-align:middle">
-            <h2>Other Projects (Deep Learning)</h2>
+            <h2>Other Projects - Deep Learning</h2>
             <p> These include coursework, projects, and other research-related tasks not intended for publication.
           </td>
         </tr>
@@ -291,7 +291,7 @@
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr>
           <td style="padding:2.5%;width:100%;vertical-align:middle">
-            <h2>Other Projects (Reinforcement Learning)</h2>
+            <h2>Other Projects - Reinforcement Learning</h2>
             <p> These include coursework, projects, and other research-related tasks not intended for publication.
           </td>
         </tr>
@@ -344,7 +344,7 @@
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr>
           <td style="padding:2.5%;width:100%;vertical-align:middle">
-            <h2>Other Projects (Search Algorithm)</h2>
+            <h2>Other Projects - Search Algorithm</h2>
             <p> These include coursework, projects, and other research-related tasks not intended for publication.
           </td>
         </tr>
@@ -397,7 +397,7 @@
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr>
           <td style="padding:2.5%;width:100%;vertical-align:middle">
-            <h2>Other Projects (Recommender System)</h2>
+            <h2>Other Projects - Recommender System</h2>
             <p> These include coursework, projects, and other research-related tasks not intended for publication.
           </td>
         </tr>
@@ -450,60 +450,7 @@
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr>
           <td style="padding:2.5%;width:100%;vertical-align:middle">
-            <h2>Other Projects (Search Algorithm)</h2>
-            <p> These include coursework, projects, and other research-related tasks not intended for publication.
-          </td>
-        </tr>
-      </table>
-      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-
-        {% for post in site.posts %}
-        {% for cat in post.categories %}
-        {% if cat == 'others-so' %}
-        <tr>
-          <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-            <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-          </td>
-          <td style="padding:2.5%;width:75%;vertical-align:middle">
-            <h3>{{post.title}}</h3>
-            <br>
-            {{post.authors}}
-            <br>
-            <em>{{post.info}}</em>, {{ post.date | date: "%Y" }}
-            <br>
-            {% if post.website %}
-            <a href="{{post.website}}">website</a> /
-            {% endif %}
-            {% if post.paper %}
-            <a href="{{post.paper}}">paper</a> /
-            {% endif %}
-            {% if post.report %}
-            <a href="{{post.report}}">report</a> /
-            {% endif %}
-            {% if post.slides %}
-            <a href="{{post.slides}}">slides</a> /
-            {% endif %}
-            {% if post.video %}
-            <a href="{{post.video}}">video</a> /
-            {% endif %}
-            {% if post.code %}
-            <a href="{{post.code}}">code</a> 
-            {% endif %}
-            <p></p>
-            {{ post.excerpt }}
-          </td>
-        </tr>
-        {% endif %}
-        {% endfor %}
-        {% endfor %}
-      </table>
-      <br>
-      <br>
-      <br>
-      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-        <tr>
-          <td style="padding:2.5%;width:100%;vertical-align:middle">
-            <h2>Other Projects (Computer Graphic)</h2>
+            <h2>Other Projects - Computer Graphic</h2>
             <p> These include coursework, projects, and other research-related tasks not intended for publication.
           </td>
         </tr>
