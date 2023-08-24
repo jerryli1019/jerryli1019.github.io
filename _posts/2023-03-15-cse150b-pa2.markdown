@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /images/game2.png
+image: /images/2048.png
 title:  "Optimizing 2048 Game Performance: An Exploration of Expectimax Search and Heuristic Evaluations"
 authors: "<strong>Yi Li</strong>"
 info: "Search Algorithm, UCSD"
