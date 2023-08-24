@@ -3,7 +3,7 @@ layout: post
 image: /images/game4.png
 title:  "Enhancing Gomoku Gameplay with Monte Carlo Tree Search: Implementation and Evaluation"
 authors: "<strong>Yi Li</strong>"
-info: "Reinforcement Learning , UCSD"
+info: "Reinforcement Learning, UCSD"
 date:   2023-03-15 00:00:00 +00:00
 code: https://github.com/jerryli1019/Enhancing-Gomoku-Gameplay-with-Monte-Carlo-Tree-Search
 video: /video/MCTS-1000.mov

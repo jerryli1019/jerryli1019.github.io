@@ -3,7 +3,7 @@ layout: post
 image: /images/game3.png
 title:  "Optimizing Blackjack Gameplay: An Exploration of Reinforcement Learning Strategies"
 authors: "<strong>Yi Li</strong>"
-info: "Reinforcement Learning , UCSD"
+info: "Reinforcement Learning, UCSD"
 date:   2023-03-15 00:00:00 +00:00
 code: https://github.com/jerryli1019/Optimizing-Blackjack-Gameplay
 categories: others-rl
