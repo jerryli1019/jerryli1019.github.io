@@ -1,0 +1,12 @@
+---
+layout: post
+image: /images/game4.png
+title:  "Enhancing Gomoku Gameplay with Monte Carlo Tree Search: Implementation and Evaluation"
+authors: "<strong>Yi Li</strong>"
+info: "Reinforcement Learning , UCSD"
+date:   2023-03-15 00:00:00 +00:00
+code: https://github.com/jerryli1019/Enhancing-Gomoku-Gameplay-with-Monte-Carlo-Tree-Search
+video: /video/MCTS-1000.mov
+categories: others-rl
+---
+The Monte Carlo Tree Search (MCTS) is implemented to enhance the artificial intelligence of the game Gomoku, a classic board game where players aim to form a line of five pieces of their color. The MCTS not only decides on an action but also provides a table showcasing winning rates for all potential actions. Two primary evaluation metrics are used: one measures the accuracy of the winning rate table and the other pits the AI against a random-play agent. 

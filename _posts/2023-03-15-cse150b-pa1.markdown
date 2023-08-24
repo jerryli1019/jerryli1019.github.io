@@ -3,7 +3,7 @@ layout: post
 image: /images/game1.png
 title:  "Terrain-Aware Pathfinding in Grid Worlds: A Comparative Study of Search Algorithms and Thematic Test Cases"
 authors: "<strong>Yi Li</strong>"
-info: "Algorithm, UCSD"
+info: "Search Algorithm, UCSD"
 date:   2023-03-15 00:00:00 +00:00
 code: https://github.com/jerryli1019/Terrain-Aware-Pathfinding-in-Grid-Worlds
 categories: others-so

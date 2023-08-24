@@ -3,7 +3,7 @@ layout: post
 image: /images/game2.png
 title:  "Optimizing 2048 Game Performance: An Exploration of Expectimax Search and Heuristic Evaluations"
 authors: "<strong>Yi Li</strong>"
-info: "Algorithm, UCSD"
+info: "Search Algorithm, UCSD"
 date:   2023-03-15 00:00:00 +00:00
 code: https://github.com/jerryli1019/Exploration-of-Expectimax-Search-and-Heuristic-Evaluations
 video: /video/2048.mov

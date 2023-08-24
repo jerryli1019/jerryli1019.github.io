@@ -1,0 +1,11 @@
+---
+layout: post
+image: /images/game5.png
+title:  "Backtracking and SAT Solving: Innovations in Sudoku Puzzle Solutions"
+authors: "<strong>Yi Li</strong>"
+info: "General Algorithm, UCSD"
+date:   2023-03-15 00:00:00 +00:00
+code: https://github.com/jerryli1019/Backtracking-and-SAT-Solving
+categories: others-ga
+---
+The study revolves around the development and optimization of a constraint solver tailored for Sudoku puzzles, deploying backtracking search as its core mechanism. A heuristic, specifically focusing on selecting an unassigned variable with the smallest domain, is proposed to refine the decision-making process. Different testing scenarios are introduced, from basic propagation-only tests to complex ones that necessitate both propagation and search methodologies. Moreover, an advanced exploration in the SAT solving sphere is presented. This exploration entails encoding Sudoku as propositional logic formulas in conjunctive normal forms and then leveraging state-of-the-art SAT solvers, such as PicoSAT and cryptominisat, for solution derivation. This approach not only illuminates the intricacies of Sudoku solving but also underscores potential methodologies for addressing its challenges.
