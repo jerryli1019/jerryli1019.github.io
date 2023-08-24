@@ -7,6 +7,6 @@ info: "Deep Learning, UCSD"
 date:   2022-03-15 00:00:00 +00:00
 code: https://github.com/jerryli1019/Automatic-Image-Annotation
 paper: https://github.com/jerryli1019/Automatic-Image-Annotation/blob/main/report.pdf
-categories: others
+categories: others-dl
 ---
 In this study, an algorithm was designed using PyTorch to caption images using various Recurrent Neural Network (RNN) models, including LSTM, Vanilla RNN, and a custom 'Architecture 2'. These models were trained on a subset of the COCO Image Captioning Task dataset due to GPU limitations. Model performance was evaluated using metrics such as cross entropy loss, BLEU-1, and BLEU-4 scores. The optimal Vanilla RNN model yielded a BLEU-1 score of 68.3% and BLEU-4 score of 8.9% with stochastic sampling at 0.001 temperature. Similarly, 'Architecture 2' with a hidden size of 1024 achieved comparable BLEU scores. Key findings reveal the hidden size's significant impact on performance, while embedding size showed lesser influence. LSTM and Architecture 2 models with advanced gating mechanisms outperformed Vanilla RNN. Introducing images at every time step was beneficial when evaluated using the BLEU score

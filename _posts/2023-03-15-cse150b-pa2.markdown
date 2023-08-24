@@ -7,6 +7,6 @@ info: "Algorithm, UCSD"
 date:   2023-03-15 00:00:00 +00:00
 code: https://github.com/jerryli1019/Exploration-of-Expectimax-Search-and-Heuristic-Evaluations
 video: /video/2048.mov
-categories: others
+categories: others-so
 ---
 In this study, we explore the development and optimization of a game AI for the 2048 puzzle game, employing the expectimax search algorithm. The proposed AI model treats the player as a "max player," making decisions that maximize potential outcomes, while the computer acts as a "chance player", placing a 2-tile in a random open spot. The AI's decision-making relies on a depth-3 game tree, wherein the tree is structured with alternating player and computer moves, culminating in terminal nodes that evaluate the game state score. For further optimization, we suggest potential improvements to the search depth and the evaluation function. 

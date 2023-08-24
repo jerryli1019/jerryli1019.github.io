@@ -1,12 +1,11 @@
 ---
 layout: post
-image: /images/game2.png
-title:  "Optimizing 2048 Game Performance: An Exploration of Expectimax Search and Heuristic Evaluations"
+image: /images/game3.png
+title:  "Optimizing Blackjack Gameplay: An Exploration of Reinforcement Learning Strategies"
 authors: "<strong>Yi Li</strong>"
-info: "Algorithm, UCSD"
+info: "Reinforcement Learning , UCSD"
 date:   2023-03-15 00:00:00 +00:00
-code: https://github.com/jerryli1019/Exploration-of-Expectimax-Search-and-Heuristic-Evaluations
-video: /video/2048.mov
-categories: others
+code: https://github.com/jerryli1019/Optimizing-Blackjack-Gameplay
+categories: others-rl
 ---
-In this study, we explore the development and optimization of a game AI for the 2048 puzzle game, employing the expectimax search algorithm. The proposed AI model treats the player as a "max player," making decisions that maximize potential outcomes, while the computer acts as a "chance player", placing a 2-tile in a random open spot. The AI's decision-making relies on a depth-3 game tree, wherein the tree is structured with alternating player and computer moves, culminating in terminal nodes that evaluate the game state score. For further optimization, we suggest potential improvements to the search depth and the evaluation function. 
+This study focuses on the implementation and comparison of reinforcement learning algorithms in the game of Blackjack. Utilizing a game engine, based on a simplified version of standard Blackjack rules, this investigation covers three reinforcement learning strategies: Monte Carlo (MC) policy evaluation, Temporal-Difference (TD) policy evaluation, and Q-Learning. The primary objective is to understand the effectiveness of these techniques in deriving an optimal playing strategy.
